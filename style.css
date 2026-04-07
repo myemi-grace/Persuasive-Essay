@@ -1,0 +1,10 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 12pt;
+  line-height: 2;
+  background-color: lemonchiffon;
+}
+
+h1, h2, h3 {
+  font-size: revert;
+}
